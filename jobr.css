@@ -1,0 +1,72 @@
+.name{
+    text-align: center;
+    font-size: 2.8rem;
+    margin-top: 70px;
+    background-color: white;
+    padding-left:
+
+}
+.brand{
+     text-align: center;
+     background-color: orangered;
+     font-size: 30px;
+     padding: 4px;
+     color: white;
+     opacity: 0.8;
+     background-size: 50%;
+    
+}
+.main{
+      
+       padding-left: 20px;
+       overflow: aut;
+       max-width: 500%;
+       max-height: 1800px;
+       justify-content: center;
+       position:sticky
+
+    
+}
+hr{
+        border: none;
+        height: 8px;
+        background: orangered;
+        width: 300px;
+        position: relative;
+}
+.Contact{
+    font-size: 1rem;
+    font-family:
+       
+}
+.left{
+    width: %;
+    padding-left: px;
+}
+.right{
+    padding-top: 80px;
+    text-align: left;
+    padding-left: 30px;
+
+    
+}
+.body{
+	grid-template-columns: 1fr 1fr ;
+    grid-template-rows: 20px 20px 20px 20p;
+    display: grid;
+}
+.hh{
+    width: 660px;
+    max-width: 500;
+    
+}
+h2{
+    font-size: 2rem;
+    opacity: 0.9;
+}
+.main1{
+    border:2px solid bl
+    display: grid;
+    box-sizing: border-box;
+    width: 90;
+}

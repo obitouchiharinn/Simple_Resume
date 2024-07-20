@@ -1,0 +1,120 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Time table</title>
+        <style>
+            table{
+                
+              padding:auto;
+                width: 100%;
+                
+border: 1px solid red;
+outline-style: double;
+
+
+            }
+            td,th{
+                font-family:sans-serif;
+                text-align:center;
+                border-color: black;
+                background-color:orchid;
+                border-radius: 8%;
+                border-color: pink;
+        
+                
+            }
+            .sac{
+                text-align: center;
+                background-color: red;
+                display: block;
+                text-align: center;
+                padding: 9px;
+            }
+          
+            
+        </style>
+</head>
+<body>
+    <span ><u><h3 class="sac">3rd SEM B TECH TIME TABLE </h3></u></span>
+    <table ></caption>
+     <tr>
+<th>DATE/TIME</th>
+<th>8:45-9:40</th>
+<th>9:40-10:35</th>
+<th>10:35-11:00</th>
+<th>11:00-11:55</th>
+<th>11:55-12:50</th>
+<th>12:50-1:50</th>
+<th>1:50-2:50</th>
+<th>2:50-3:50</th>
+</tr>  
+<tr>
+<th>MONDAY</th>
+<td>DLD</td>
+<td>DS</td>
+<td rowspan="6">TEA BREAK</td>
+<td colspan="2">SEC</td>
+<!-- <td>SEC</td> -->
+<td rowspan="6">LUNCH</td>
+<td colspan="2">DS(LAB)</td>
+<!-- <td>DS(LAB)</td> -->
+</tr>
+<tr>
+    <th>TUESDAY</th>
+    <td>DS</td>
+    <td>DLD</td>
+    <!-- <td>TEA BREAK</td> -->
+    <td >MENTOR</td>
+    <td></td>
+    <!-- <td>LUNCH</td> -->
+    <td colspan="2">DLD(LAB)</td>
+    <!-- <td>DLD(LAB)</td> -->
+    </tr>
+    <tr>
+        <th>WEDNESDAY</th>
+        <td>DLD</td>
+        <td>DS</td>
+        <!-- <td>TEA BREAK</td> -->
+        <td>TNT</td>
+        <td>DMGT</td>
+        <!-- <td>LUNCH</td> -->
+        <td>DMGT</td>
+        <td>OFFICE-HRS</td>
+        </tr>
+        <tr>
+            <th>THURSDAY</th>
+            <td colspan="2">FSD</td>
+            <!-- <td>FSD</td> -->
+            <!-- <td>TEA BREAK</td> -->
+            <td></td>
+            <td>TNT</td>
+            <!-- <td>LUNCH</td> -->
+            <td colspan="2">SPORTS</td>
+            <!-- <td>SPORTS</td> -->
+            </tr>
+            <tr>
+                <th>FRIDAY</th>
+                <td>FSD</td>
+                <td>SEC</td>
+                <!-- <td>TEA BREAK</td> -->
+                <td>TNT</td>
+                <td></td>
+                <!-- <td>LUNCH</td> -->
+                <td>DGMT</td>
+                <td>LIBRARY</td>
+                </tr>
+                <tr>
+                    <th>SATURDAY</th>
+                    <td colspan="2">LIBERAL STUDIES</td>                  
+                    <!-- <td>TEA BREAK</td> -->
+                    <td colspan="2">LIBERAL STUDIES</td>                   
+                    <!-- <td>LUNCH</td> -->
+                    <td></td>
+                    <td></td>
+                    </tr>
+    </table>
+</body>
+</html>
